@@ -1,0 +1,14 @@
+{
+  "mail": {
+    "subject": "Сообщение с сайта node-test",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 465,
+      "secure": true,
+      "auth": {
+        "user": "mySuperTest8@gmail.com",
+        "pass": "s5gg2t5ewa"
+      }
+    }
+  }
+}

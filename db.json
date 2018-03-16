@@ -1,0 +1,84 @@
+{
+  "skills": [
+    {
+      "number": 11,
+      "text": "Возраст начала занятий на скрипке"
+    },
+    {
+      "number": 11,
+      "text": "Концертов отыграл"
+    },
+    {
+      "number": 11,
+      "text": "Максимальное число городов в туре"
+    },
+    {
+      "number": 11,
+      "text": "Лет на сцене в качестве скрипача"
+    }
+  ],
+  "products": [
+    {
+      "name": "work1",
+      "price": "10",
+      "src": "assets\\upload\\Work1.jpg"
+    },
+    {
+      "name": "work2",
+      "price": "55",
+      "src": "assets\\upload\\Work2.jpg"
+    },
+    {
+      "name": "work3",
+      "price": "88",
+      "src": "assets\\upload\\Work3.jpg"
+    },
+    {
+      "name": "work4",
+      "price": "25",
+      "src": "assets\\upload\\Work4.jpg"
+    },
+    {
+      "name": "work5",
+      "price": "60",
+      "src": "assets\\upload\\Work5.jpg"
+    },
+    {
+      "name": "work6",
+      "price": "50",
+      "src": "assets\\upload\\Work6.jpg"
+    }
+  ],
+  "emails": [
+    {
+      "email": "test@mail.ru",
+      "name": "test11",
+      "message": "hi"
+    },
+    {
+      "email": "example@mail.ru",
+      "name": "example",
+      "message": "test"
+    },
+    {
+      "email": "example@mail.ru",
+      "name": "fox",
+      "message": "lol"
+    },
+    {
+      "email": "test@mail.ru",
+      "name": "gaga",
+      "message": "hi"
+    },
+    {
+      "email": "example@mail.ru",
+      "name": "fox",
+      "message": "qqq"
+    },
+    {
+      "email": "admin@gmail.com",
+      "name": "admin",
+      "message": "admin"
+    }
+  ]
+}
